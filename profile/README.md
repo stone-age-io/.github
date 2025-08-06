@@ -7,5 +7,5 @@ A secure, scalable platform built on proven open source components like NATS, Po
 
 ## 👩‍💻 Useful resources
 
-- [Website](https://stone-age/io)
+- [Website](https://stone-age.io)
 - [Blog](https://blog.stone-age.io)
